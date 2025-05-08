@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hi 👋, I'm Andrei Fedorov, a frontend developer based in Portland, Oregon, USA 🇺🇸.<br><br>With extensive experience building responsive and high-performing websites. I enjoy creating user-friendly, accessible, and scalable digital experiences.<br>I'm an active contributor to developer communities like StackOverflow, showcase my projects and experiments on CodePen, and regularly network with professionals via LinkedIn.<br><br>I'm currently open to new opportunities and excited to connect!
+Hi 👋, I'm Andrei Fedorov, a frontend developer based in Portland, Oregon, USA 🇺🇸.<br><br>I specialize in building responsive, high-performance websites that are easy to use, accessible, and built to scale. I take pride in crafting thoughtful digital experiences that work well across devices and browsers.<br><br>Outside of work, I stay connected to the tech world by contributing on StackOverflow, sharing code experiments on CodePen, and networking with developers on LinkedIn and X. I believe in continuous learning and open communication.<br><br>I’m always excited about new challenges and open to collaboration — feel free to reach out!
 
 
 ## 🌐 Socials:
