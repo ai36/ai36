@@ -22,8 +22,8 @@ Created a website for an oncology center. Tech: React, Next.js, Vite, JS, HTML, 
 [Repo](https://github.com/ai36/mproc.com), [Link](https://mproc.com/)
 
 **E-Commerce rental project (B2B, B2C)**\
-e-commerce website for AV-rental company. Tech stack: HTML, CSS, JavaScript, PHP, Figma, Lighthouse, Google Analytics, Auth0.\
-[Link]((https://web.archive.org/web/20240903072444/https://nevarental.ru/))
+e-commerce website for AV-rental company. Tech stack: HTML, CSS, JavaScript, PHP, Figma, Lighthouse, Google Analytics, Auth0\
+[Link](https://web.archive.org/web/20240903072444/https://nevarental.ru/)
 
 [All test tasks](https://github.com/ai36?tab=repositories&q=_test_task_) - test tasks from real interviews\
 [All internship projects](https://github.com/ai36?tab=repositories&q=_internship_) - projects completed during the internship
