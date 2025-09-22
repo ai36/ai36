@@ -14,16 +14,24 @@ VS Code extension for rapid React component scaffolding.\
 [Repo](https://github.com/ai36/react-component-maker), [Store](https://marketplace.visualstudio.com/items?itemName=ai36.react-component-maker)
 
 **HVAC Service Portal**\
-Implemented front-end solution with Core Web Vitals monitoring and dynamic admin interface. Delivered template-based CMS features for non-technical users. Tech: HTML5, CSS3, JavaScript, Gulp, Figma, Lighthouse, Kommo CRM, Jobber, Responsive design\
+Implemented front-end solution with Core Web Vitals monitoring and dynamic admin interface. Delivered template-based CMS features for non-technical users.\
+Tech: HTML5, CSS3, JavaScript, Gulp, Figma, Lighthouse, Kommo CRM, Jobber, Responsive design\
 [Repo](https://github.com/ai36/hvaclimate.com), [Link](https://agamalabs.com/sites/hvaclimate.com/)
 
 **Oncology care website**\
-Created a website for an oncology center. Tech: React, Next.js, Vite, JS, HTML, CSS, Figma, Lighthouse, Responsive design\
+Created a website for an oncology center.\
+Tech: React, Next.js, Vite, JS, HTML, CSS, Figma, Lighthouse, Responsive design\
 [Repo](https://github.com/ai36/mproc.com), [Link](https://mproc.com/)
 
 **E-Commerce rental project (B2B, B2C)**\
-e-commerce website for AV-rental company. Tech stack: HTML, CSS, JavaScript, PHP, Figma, Lighthouse, Google Analytics, Auth0\
+E-commerce website for AV-rental company.\
+Tech: HTML, CSS, JavaScript, PHP, Figma, Lighthouse, Google Analytics, Auth0\
 [Link](https://web.archive.org/web/20240903072444/https://nevarental.ru/)
+
+**Debug-snippet**\
+Simple noJS HTML validator. Highlights HTML errors using CSS. Quick code review for beginners.\
+Tech: CSS\
+[Repo](https://github.com/ai36/ai36.github.io?tab=readme-ov-file#debug-snippet)
 
 [All test tasks](https://github.com/ai36?tab=repositories&q=_test_task_) - test tasks from real interviews\
 [All internship projects](https://github.com/ai36?tab=repositories&q=_internship_) - projects completed during the internship
