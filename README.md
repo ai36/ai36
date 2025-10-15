@@ -50,6 +50,11 @@ Tech: CSS\
 ---
 [![](https://visitcount.itsvg.in/api?id=ai36&icon=0&color=12)](https://visitcount.itsvg.in)
 
+## StackOverflow
+[![](https://stackexchange.com/users/flair/8266093.png)](https://stackexchange.com/users/8266093)
+
+## Codewars
+![](https://www.codewars.com/users/ai36/badges/large)
 
 ## 💰 You can help me by Donating
 [![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/43636265) 
