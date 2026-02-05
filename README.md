@@ -13,15 +13,25 @@ Hi 👋, I'm Andrei Fedorov, a frontend developer based in Portland, Oregon, USA
 VS Code extension for rapid React component scaffolding.\
 [Repo](https://github.com/ai36/react-component-maker), [Store](https://marketplace.visualstudio.com/items?itemName=ai36.react-component-maker)
 
-**HVAC Service Portal**\
-Implemented front-end solution with Core Web Vitals monitoring and dynamic admin interface. Delivered template-based CMS features for non-technical users.\
-Tech: HTML5, CSS3, JavaScript, Gulp, Figma, Lighthouse, Kommo CRM, Jobber, Responsive design\
-[Repo](https://github.com/ai36/hvaclimate.com), [Link](https://agamalabs.com/sites/hvaclimate.com/)
+**Stone works PDX**\
+A multi-page website for a construction company was created featuring a services catalog, portfolio showcase, Telegram-based inquiry intake, and basic technical SEO implementation.\
+Tech: React, React Router (data router + SSR), Tailwind CSS, Vite, Figma, Responsive design\
+[Live demo](https://stoneworkspdx.vercel.app)
+
+**Agama Labs landing**\
+Developed a web development agency landing page featuring multilingual support, theme switching, CRM integration, and Telegram connectivity.\
+Tech: React, Next.js (App router + SSR), next-intl, Tailwind CSS, Figma, Lighthouse, Kommo CRM, Responsive design\
+[Live demo](https://agamalabs.com)
 
 **Oncology care website**\
 Created a website for an oncology center.\
 Tech: React, Next.js, Vite, JS, HTML, CSS, Figma, Lighthouse, Responsive design\
-[Repo](https://github.com/ai36/mproc.com), [Link](https://mproc.com/)
+[Repo](https://github.com/ai36/mproc.com), [Live demo](https://mproc.com/)
+
+**HVAC Service Portal**\
+Implemented front-end solution with Core Web Vitals monitoring and dynamic admin interface. Delivered template-based CMS features for non-technical users.\
+Tech: HTML5, CSS3, JavaScript, Gulp, Figma, Lighthouse, Kommo CRM, Jobber, Responsive design\
+[Repo](https://github.com/ai36/hvaclimate.com), [Live demo](https://agamalabs.com/sites/hvaclimate.com/)
 
 **E-Commerce rental project (B2B, B2C)**\
 E-commerce website for AV-rental company.\
