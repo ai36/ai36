@@ -16,22 +16,22 @@ VS Code extension for rapid React component scaffolding.\
 **Stone works PDX**\
 A multi-page website for a construction company was created featuring a services catalog, portfolio showcase, Telegram-based inquiry intake, and basic technical SEO implementation.\
 Tech: React, React Router (data router + SSR), Tailwind CSS, Vite, Figma, Responsive design\
-[Live demo](https://stoneworkspdx.vercel.app)
+[Live demo](https://stoneworkspdx.vercel.app/?utm_source=github&utm_medium=portfolio)
 
 **Agama Labs landing**\
 Developed a web development agency landing page featuring multilingual support, theme switching, CRM integration, and Telegram connectivity.\
 Tech: React, Next.js (App router + SSR), next-intl, Tailwind CSS, Figma, Lighthouse, Kommo CRM, Responsive design\
-[Live demo](https://agamalabs.com)
+[Live demo](https://agamalabs.com/?utm_source=github&utm_medium=portfolio)
 
 **Oncology care website**\
 Created a website for an oncology center.\
 Tech: React, Next.js, Vite, JS, HTML, CSS, Figma, Lighthouse, Responsive design\
-[Repo](https://github.com/ai36/mproc.com), [Live demo](https://mproc.com/)
+[Repo](https://github.com/ai36/mproc.com), [Live demo](https://mproc.com/?utm_source=github&utm_medium=portfolio)
 
 **HVAC Service Portal**\
 Implemented front-end solution with Core Web Vitals monitoring and dynamic admin interface. Delivered template-based CMS features for non-technical users.\
 Tech: HTML5, CSS3, JavaScript, Gulp, Figma, Lighthouse, Kommo CRM, Jobber, Responsive design\
-[Repo](https://github.com/ai36/hvaclimate.com), [Live demo](https://agamalabs.com/sites/hvaclimate.com/)
+[Repo](https://github.com/ai36/hvaclimate.com), [Live demo](https://hvaclimate.vercel.app/?utm_source=github&utm_medium=portfolio)
 
 **E-Commerce rental project (B2B, B2C)**\
 E-commerce website for AV-rental company.\
