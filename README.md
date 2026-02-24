@@ -13,6 +13,16 @@ Hi 👋, I'm Andrei Fedorov, a frontend developer based in Portland, Oregon, USA
 VS Code extension for rapid React component scaffolding.\
 [Repo](https://github.com/ai36/react-component-maker), [Store](https://marketplace.visualstudio.com/items?itemName=ai36.react-component-maker)
 
+**Data Restore PDX**\
+A landing page was created for a data recovery company specializing in damaged media, featuring Telegram bot lead intake and integration with Google Analytics and Google Search Console.
+Tech: React, Next.js (App router + SSR), Tailwind CSS, Figma, Responsive design\
+[Repo](https://github.com/ai36/datarestorepdx.com), [Live demo](https://datarestorepdx.vercel.app/?utm_source=github&utm_medium=portfolio)
+
+**Event Gear PDX**\
+An event company website was created featuring a lead intake system, blog, and portfolio showcase.\
+Tech: React, Next.js (App router + SSR), Tailwind CSS, Figma, Responsive design\
+[Repo](https://github.com/ai36/eventgearpdx.com), [Live demo](https://eventgearpdx.com/?utm_source=github&utm_medium=portfolio)
+
 **Stone works PDX**\
 A multi-page website for a construction company was created featuring a services catalog, portfolio showcase, Telegram-based inquiry intake, and basic technical SEO implementation.\
 Tech: React, React Router (data router + SSR), Tailwind CSS, Vite, Figma, Responsive design\
@@ -25,17 +35,17 @@ Tech: React, Next.js (App router + SSR), next-intl, Tailwind CSS, Figma, Lightho
 
 **Oncology care website**\
 Created a website for an oncology center.\
-Tech: React, Next.js, Vite, JS, HTML, CSS, Figma, Lighthouse, Responsive design\
+Tech: PHP, JS, HTML, CSS, Figma, Lighthouse, Responsive design\
 [Repo](https://github.com/ai36/mproc.com), [Live demo](https://mproc.com/?utm_source=github&utm_medium=portfolio)
 
 **HVAC Service Portal**\
 Implemented front-end solution with Core Web Vitals monitoring and dynamic admin interface. Delivered template-based CMS features for non-technical users.\
-Tech: HTML5, CSS3, JavaScript, Gulp, Figma, Lighthouse, Kommo CRM, Jobber, Responsive design\
+Tech: React, Vite, HTML5, CSS3, Figma, Lighthouse, Kommo CRM, Jobber, Responsive design\
 [Repo](https://github.com/ai36/hvaclimate.com), [Live demo](https://hvaclimate.vercel.app/?utm_source=github&utm_medium=portfolio)
 
 **E-Commerce rental project (B2B, B2C)**\
 E-commerce website for AV-rental company.\
-Tech: HTML, CSS, JavaScript, PHP, Figma, Lighthouse, Google Analytics, Auth0\
+Tech: PHP, JavaScript, HTML, CSS, Figma, Lighthouse, Google Analytics, Auth0\
 [Link](https://web.archive.org/web/20240903072444/https://nevarental.ru/)
 
 **Debug-snippet**\
