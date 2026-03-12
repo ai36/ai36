@@ -11,7 +11,7 @@ Hi 👋, I'm Andrei Fedorov, a frontend developer based in Portland, Oregon, USA
 
 **React Component Maker**\
 Developed a VS Code extension that streamlines React component scaffolding, reducing repetitive setup work for developers. Focused on improving developer productivity and consistency across projects.\
-[Repo](https://github.com/ai36/react-component-maker), [Store](https://marketplace.visualstudio.com/items?itemName=ai36.react-component-maker)
+[Repo](https://github.com/ai36/react-component-maker), [Store](https://marketplace.visualstudio.com/items?itemName=ai36.react-component-maker), [Website](https://rcmaker.vercel.app/?utm_source=github&utm_medium=portfolio)
 
 **Sandblasting PDX**\
 A multi-page website for a sandblasting company. We implemented adaptability, accessibility, analytics, and technical SEO. Project reports can be posted in Markdown format with file system routing.\
