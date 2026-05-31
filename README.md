@@ -15,53 +15,53 @@ Developed a VS Code extension that streamlines React component scaffolding, redu
 
 **Sandblasting PDX**\
 A multi-page website for a sandblasting company. We implemented adaptability, accessibility, analytics, and technical SEO. Project reports can be posted in Markdown format with file system routing.\
-Tech: React, Next.js (App router + SSR), Tailwind CSS, Figma, Responsive design\
+Tech: `React`, `Next.js (App router + SSR)`, `Tailwind CSS`, `Figma`, `Responsive design`\
 [Repo](https://github.com/ai36/sandblastingpdx.com), [Live demo](https://sandblastingpdx.vercel.app/?utm_source=github&utm_medium=portfolio)
 
 **PNW Stump Pros**\
 Delivered a high-conversion landing page with server actions that route customer inquiries directly to messenger channels. Optimized layout and responsiveness to support lead generation on mobile and desktop.\
-Tech: React, Next.js (App router + SSR), Tailwind CSS, Figma, Responsive design\
+Tech: `React`, `Next.js (App router + SSR)`, `Tailwind CSS`, `Figma`, `Responsive design`\
 [Repo](https://github.com/ai36/pnwstumppros.com), [Live demo](https://pnwstumppros.vercel.app/?utm_source=github&utm_medium=portfolio)
 
 **Data Restore PDX**\
 Designed and shipped a lead-focused landing page for a data recovery provider, including Telegram bot intake to automate customer requests. Connected Google Analytics and Search Console to enable performance tracking and SEO monitoring.\
-Tech: React, Next.js (App router + SSR), Tailwind CSS, Figma, Responsive design\
+Tech: `React`, `Next.js (App router + SSR)`, `Tailwind CSS`, `Figma`, `Responsive design`\
 [Repo](https://github.com/ai36/datarestorepdx.com), [Live demo](https://datarestorepdx.vercel.app/?utm_source=github&utm_medium=portfolio)
 
 **Event Gear PDX**\
 Produced a marketing website for an event services company with integrated lead capture, blog, and portfolio sections. Structured the project for scalability and SEO to support ongoing content growth.\
 Built a multi-agent AI system that automated end-to-end SEO workflows, including keyword research, content planning, content generation, and optimization, significantly reducing manual effort and increasing content production throughput.\
-Tech: React, Next.js (App router + SSR), Tailwind CSS, Figma, Responsive design, Claude API, Google Cloud Console, Telegram integration\
+Tech: `React`, `Next.js (App router + SSR)`, `Tailwind CSS`, `Figma`, `Responsive design`, `Claude API`, `Google Cloud Console`, `Telegram integration`\
 [Repo](https://github.com/ai36/eventgearpdx.com), [Live demo](https://eventgearpdx.com/?utm_source=github&utm_medium=portfolio)
 
 **Stone works PDX**\
 Engineered a multi-page construction website with a structured services catalog and portfolio to improve customer discovery. Added Telegram-based inquiry flow and baseline technical SEO to strengthen inbound traffic.\
-Tech: React, React Router (data router + SSR), Tailwind CSS, Vite, Figma, Responsive design\
+Tech: `React`, `React Router (data router + SSR)`, `Tailwind CSS`, `Vite`, `Figma`, `Responsive design`\
 [Live demo](https://stoneworkspdx.vercel.app/?utm_source=github&utm_medium=portfolio)
 
 **Agama Labs landing**\
 Built an agency landing page with multilingual support, theme switching, and CRM integration to streamline lead management. Ensured strong Lighthouse performance and seamless Telegram connectivity for client communication.\
-Tech: React, Next.js (App router + SSR), next-intl, Tailwind CSS, Figma, Lighthouse, Kommo CRM, Responsive design\
+Tech: `React`, `Next.js (App router + SSR)`, `next-intl`, `Tailwind CSS`, `Figma`, `Lighthouse`, `Kommo CRM`, `Responsive design`\
 [Live demo](https://agamalabs.com/?utm_source=github&utm_medium=portfolio)
 
 **Oncology care website**\
 Delivered a responsive website for an oncology center with a focus on clarity, accessibility, and performance. Optimized layout and Lighthouse metrics to improve usability for patients and caregivers.\
-Tech: PHP, JS, HTML, CSS, Figma, Lighthouse, Responsive design\
+Tech: `PHP`, `JS`, `HTML`, `CSS`, `Figma`, `Lighthouse`, `Responsive design`\
 [Repo](https://github.com/ai36/mproc.com), [Live demo](https://mproc.com/?utm_source=github&utm_medium=portfolio)
 
 **HVAC Service Portal**\
 Implemented front-end solution with Core Web Vitals monitoring and dynamic admin interface. Delivered template-based CMS features for non-technical users.\
-Tech: React, Vite, HTML5, CSS3, Figma, Lighthouse, Kommo CRM, Jobber, Responsive design\
+Tech: `React`, `Vite`, `HTML5`, `CSS3`, `Figma`, `Lighthouse`, `Kommo CRM`, `Jobber`, `Responsive design`\
 [Repo](https://github.com/ai36/hvaclimate.com), [Live demo](https://hvaclimate.vercel.app/?utm_source=github&utm_medium=portfolio)
 
 **E-Commerce rental project (B2B, B2C)**\
 Delivered an e-commerce platform for an AV rental business supporting both B2B and B2C workflows. Integrated Auth0 authentication and Google Analytics to improve user management and conversion tracking.\
-Tech: PHP, JavaScript, HTML, CSS, Figma, Lighthouse, Google Analytics, Auth0\
+Tech: `PHP`, `JavaScript`, `HTML`, `CSS`, `Figma`, `Lighthouse`, `Google Analytics`, `Auth0`\
 [Link](https://web.archive.org/web/20240903072444/https://nevarental.ru/)
 
 **Debug-snippet**\
 Developed a lightweight no-JS HTML validator that surfaces markup issues using pure CSS. Designed as a fast feedback tool for beginners during code review and learning.\
-Tech: CSS\
+Tech: `CSS`\
 [Repo](https://github.com/ai36/ai36.github.io?tab=readme-ov-file#debug-snippet)
 
 [All test tasks](https://github.com/ai36?tab=repositories&q=_test_task_) - test tasks from real interviews\
