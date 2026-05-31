@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hi 👋, I'm Andrei Fedorov, a frontend developer based in Portland, Oregon, USA 🇺🇸.<br><br>With extensive experience building responsive and high-performing websites. I enjoy creating user-friendly, accessible, and scalable digital experiences.<br>I'm an active contributor to developer communities like StackOverflow, showcase my projects and experiments on CodePen, and regularly network with professionals via LinkedIn.<br><br>I'm currently open to new opportunities and excited to connect!
+Hi 👋, I'm Andrei Fedorov, a frontend engineer based in Portland, Oregon, USA 🇺🇸.<br><br>With extensive experience building responsive and high-performing websites. I enjoy creating user-friendly, accessible, and scalable digital experiences.<br>I'm an active contributor to developer communities like StackOverflow, showcase my projects and experiments on CodePen, and regularly network with professionals via LinkedIn.<br><br>I'm currently open to new opportunities and excited to connect!
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/andrewfedorov) [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/6641198) [![Codepen](https://img.shields.io/badge/Codepen-000000?logo=codepen&logoColor=white)](https://codepen.io/aliencash) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:4363626@gmail.com) 
@@ -30,7 +30,8 @@ Tech: React, Next.js (App router + SSR), Tailwind CSS, Figma, Responsive design\
 
 **Event Gear PDX**\
 Produced a marketing website for an event services company with integrated lead capture, blog, and portfolio sections. Structured the project for scalability and SEO to support ongoing content growth.\
-Tech: React, Next.js (App router + SSR), Tailwind CSS, Figma, Responsive design\
+Built a multi-agent AI system that automated end-to-end SEO workflows, including keyword research, content planning, content generation, and optimization, significantly reducing manual effort and increasing content production throughput.\
+Tech: React, Next.js (App router + SSR), Tailwind CSS, Figma, Responsive design, Claude API, Google Cloud Console, Telegram integration\
 [Repo](https://github.com/ai36/eventgearpdx.com), [Live demo](https://eventgearpdx.com/?utm_source=github&utm_medium=portfolio)
 
 **Stone works PDX**\
