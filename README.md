@@ -68,9 +68,11 @@ Tech: `CSS`\
 [All internship projects](https://github.com/ai36?tab=repositories&q=_internship_) - projects completed during the internship
 
 # 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=ai36&theme=github_dark_dimmed&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=ai36&theme=github_dark_dimmed&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=ai36&theme=github_dark_dimmed&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+![](https://github-readme-stats.shion.dev/api?username=ai36&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://streak-stats.demolab.com/?user=ai36&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.shion.dev/api/top-langs/?username=ai36&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+
+---
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=ai36&theme=github_dark_dimmed&no-frame=true&no-bg=false&margin-w=4)
