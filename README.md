@@ -9,6 +9,11 @@ Hi 👋, I'm Andrei Fedorov, a frontend engineer based in Portland, Oregon, USA 
 
 # 💪 Portfolio and fast links
 
+**Marketplace Filter**\
+Developed a Tampermonkey userscript that adds keyword filtering and status tracking to Facebook Marketplace listings. Implemented boolean search syntax (AND/OR/grouping), search history, per-listing notes, and persistent status markers to speed up manual browsing and triage of large listing volumes.
+Tech: `JavaScript`, `Tampermonkey (GM API)`, `DOM manipulation`, `MutationObserver`
+[Repo](https://github.com/ai36/marketplace-filter)
+
 **React Component Maker**\
 Developed a VS Code extension that streamlines React component scaffolding, reducing repetitive setup work for developers. Focused on improving developer productivity and consistency across projects.\
 [Repo](https://github.com/ai36/react-component-maker), [Store](https://marketplace.visualstudio.com/items?itemName=ai36.react-component-maker), [Website](https://rcmaker.vercel.app/?utm_source=github&utm_medium=portfolio)
