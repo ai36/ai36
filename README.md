@@ -18,6 +18,11 @@ Tech: `JavaScript`, `Tampermonkey (GM API)`, `DOM manipulation`, `MutationObserv
 Developed a VS Code extension that streamlines React component scaffolding, reducing repetitive setup work for developers. Focused on improving developer productivity and consistency across projects.\
 [Repo](https://github.com/ai36/react-component-maker), [Store](https://marketplace.visualstudio.com/items?itemName=ai36.react-component-maker), [Website](https://rcmaker.vercel.app/?utm_source=github&utm_medium=portfolio)
 
+**Sports Cave Barbershop**\
+Built a barbershop booking site MVP from scratch as a productized template, not client work — a from-scratch reservation flow (service → barber → date/time) backed by Postgres with a hard uniqueness constraint to make double-booking physically impossible, plus Telegram intake notifications. Ported a supplied "Gridiron & Groom" design system into a reusable dark, sports-industrial Tailwind theme.\
+Tech: `React`, `Next.js (App router)`, `TypeScript`, `Tailwind CSS`, `Drizzle ORM`, `Vercel Postgres`, `Telegram Bot API`, `Responsive design`\
+[Repo](https://github.com/ai36/sportscavebarbershop.com), [Live demo](https://sportscavebarbershop.vercel.app/?utm_source=github&utm_medium=portfolio)
+
 **Sandblasting PDX**\
 A multi-page website for a sandblasting company. We implemented adaptability, accessibility, analytics, and technical SEO. Project reports can be posted in Markdown format with file system routing.\
 Tech: `React`, `Next.js (App router + SSR)`, `Tailwind CSS`, `Figma`, `Responsive design`\
