@@ -62,7 +62,7 @@ Tech: `PHP`, `JS`, `HTML`, `CSS`, `Figma`, `Lighthouse`, `Responsive design`\
 **HVAC Service Portal**\
 Implemented front-end solution with Core Web Vitals monitoring and dynamic admin interface. Delivered template-based CMS features for non-technical users.\
 Tech: `React`, `Vite`, `HTML5`, `CSS3`, `Figma`, `Lighthouse`, `Kommo CRM`, `Jobber`, `Responsive design`\
-[Repo](https://github.com/ai36/hvaclimate.com), [Live demo](https://hvaclimate.vercel.app/?utm_source=github&utm_medium=portfolio)
+[Repo](https://github.com/ai36/hvaclimate.com)
 
 **E-Commerce rental project (B2B, B2C)**\
 Delivered an e-commerce platform for an AV rental business supporting both B2B and B2C workflows. Integrated Auth0 authentication and Google Analytics to improve user management and conversion tracking.\
