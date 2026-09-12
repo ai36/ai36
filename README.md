@@ -9,60 +9,65 @@ Hi 👋, I'm Andrei Fedorov, a frontend engineer based in Portland, Oregon, USA 
 
 # 💪 Portfolio and fast links
 
-**Marketplace Filter**\
-Developed a Tampermonkey userscript that adds keyword filtering and status tracking to Facebook Marketplace listings. Implemented boolean search syntax (AND/OR/grouping), search history, per-listing notes, and persistent status markers to speed up manual browsing and triage of large listing volumes.\
-Tech: `JavaScript`, `Tampermonkey (GM API)`, `DOM manipulation`, `MutationObserver`\
-[Repo](https://github.com/ai36/marketplace-filter)
-
-**React Component Maker**\
-Developed a VS Code extension that streamlines React component scaffolding, reducing repetitive setup work for developers. Focused on improving developer productivity and consistency across projects.\
-[Repo](https://github.com/ai36/react-component-maker), [Store](https://marketplace.visualstudio.com/items?itemName=ai36.react-component-maker), [Website](https://rcmaker.vercel.app/?utm_source=github&utm_medium=portfolio)
-
 **Sports Cave Barbershop**\
 Built a barbershop booking site MVP from scratch as a productized template, not client work — a from-scratch reservation flow (service → barber → date/time) backed by Postgres with a hard uniqueness constraint to make double-booking physically impossible, plus Telegram intake notifications. Ported a supplied "Gridiron & Groom" design system into a reusable dark, sports-industrial Tailwind theme.\
 Tech: `React`, `Next.js (App router)`, `TypeScript`, `Tailwind CSS`, `Drizzle ORM`, `Vercel Postgres`, `Telegram Bot API`, `Responsive design`\
 [Repo](https://github.com/ai36/sportscavebarbershop.com), [Live demo](https://sportscavebarbershop.vercel.app/?utm_source=github&utm_medium=portfolio)
 
-**Sandblasting PDX**\
-A multi-page website for a sandblasting company. We implemented adaptability, accessibility, analytics, and technical SEO. Project reports can be posted in Markdown format with file system routing.\
-Tech: `React`, `Next.js (App router + SSR)`, `Tailwind CSS`, `Figma`, `Responsive design`\
-[Repo](https://github.com/ai36/sandblastingpdx.com), [Live demo](https://sandblastingpdx.vercel.app/?utm_source=github&utm_medium=portfolio)
-
-**PNW Stump Pros**\
-Delivered a high-conversion landing page with server actions that route customer inquiries directly to messenger channels. Optimized layout and responsiveness to support lead generation on mobile and desktop.\
-Tech: `React`, `Next.js (App router + SSR)`, `Tailwind CSS`, `Figma`, `Responsive design`\
-[Repo](https://github.com/ai36/pnwstumppros.com), [Live demo](https://pnwstumppros.vercel.app/?utm_source=github&utm_medium=portfolio)
-
-**Data Restore PDX**\
-Designed and shipped a lead-focused landing page for a data recovery provider, including Telegram bot intake to automate customer requests. Connected Google Analytics and Search Console to enable performance tracking and SEO monitoring.\
-Tech: `React`, `Next.js (App router + SSR)`, `Tailwind CSS`, `Figma`, `Responsive design`\
-[Repo](https://github.com/ai36/datarestorepdx.com), [Live demo](https://datarestorepdx.vercel.app/?utm_source=github&utm_medium=portfolio)
-
 **Event Gear PDX**\
 Produced a marketing website for an event services company with integrated lead capture, blog, and portfolio sections. Structured the project for scalability and SEO to support ongoing content growth.\
 Built a multi-agent AI system that automated end-to-end SEO workflows, including keyword research, content planning, content generation, and optimization, significantly reducing manual effort and increasing content production throughput.\
-Tech: `React`, `Next.js (App router + SSR)`, `Tailwind CSS`, `Figma`, `Responsive design`, `Claude API`, `Google Cloud Console`, `Telegram integration`\
+Tech: `React`, `Next.js (App router + SSR)`, `TypeScript`, `Tailwind CSS`, `Figma`, `Responsive design`, `Claude API`, `Google Cloud Console`, `Telegram integration`\
 [Repo](https://github.com/ai36/eventgearpdx.com), [Live demo](https://eventgearpdx.com/?utm_source=github&utm_medium=portfolio)
-
-**Stone works PDX**\
-Engineered a multi-page construction website with a structured services catalog and portfolio to improve customer discovery. Added Telegram-based inquiry flow and baseline technical SEO to strengthen inbound traffic.\
-Tech: `React`, `React Router (data router + SSR)`, `Tailwind CSS`, `Vite`, `Figma`, `Responsive design`\
-[Live demo](https://stoneworkspdx.vercel.app/?utm_source=github&utm_medium=portfolio)
 
 **Agama Labs landing**\
 Built an agency landing page with multilingual support, theme switching, and CRM integration to streamline lead management. Ensured strong Lighthouse performance and seamless Telegram connectivity for client communication.\
-Tech: `React`, `Next.js (App router + SSR)`, `next-intl`, `Tailwind CSS`, `Figma`, `Lighthouse`, `Kommo CRM`, `Responsive design`\
-[Live demo](https://agamalabs.com/?utm_source=github&utm_medium=portfolio)
+Tech: `React`, `Next.js (App router + SSR)`, `TypeScript`, `next-intl`, `Tailwind CSS`, `Figma`, `Lighthouse`, `Kommo CRM`, `Responsive design`\
+[Website](https://agamalabs.com/?utm_source=github&utm_medium=portfolio)
 
-**Oncology care website**\
-Delivered a responsive website for an oncology center with a focus on clarity, accessibility, and performance. Optimized layout and Lighthouse metrics to improve usability for patients and caregivers.\
-Tech: `PHP`, `JS`, `HTML`, `CSS`, `Figma`, `Lighthouse`, `Responsive design`\
-[Repo](https://github.com/ai36/mproc.com), [Live demo](https://mproc.com/?utm_source=github&utm_medium=portfolio)
+**Laundry3 (Laundry Availability Agent)**\
+Built for the micro1 Agentic Workflows Hackathon (August 2026): a vision agent that reads shared laundry-room cameras and publishes per-machine free / occupied / out-of-order status, so tenants check availability before carrying a load downstairs and can reserve a free machine. Designed the evaluation metric before the agent and added a human-in-the-loop feedback loop that turns integrator corrections into per-machine reading rules, raising accuracy from 45.5% to 63.6% (72.7% with overrides) and halving harmful errors.\
+Tech: `TypeScript`, `Next.js (App router)`, `Tailwind CSS`, `MobX`, `Claude API (vision)`, `Radix UI`, `Responsive design`\
+[Repo](https://github.com/ai36/_hackathon_laundry-availability-agent), [Demo video](https://youtu.be/EMivkaOQepg)
+
+**Sandblasting PDX**\
+A multi-page website for a sandblasting company. We implemented adaptability, accessibility, analytics, and technical SEO. Project reports can be posted in Markdown format with file system routing.\
+Tech: `React`, `Next.js (App router + SSR)`, `TypeScript`, `Tailwind CSS`, `Figma`, `Responsive design`\
+[Repo](https://github.com/ai36/sandblastingpdx.com), [Live demo](https://sandblastingpdx.vercel.app/?utm_source=github&utm_medium=portfolio)
+
+**React Component Maker**\
+Developed a VS Code extension that streamlines React component scaffolding, reducing repetitive setup work for developers. Focused on improving developer productivity and consistency across projects.\
+[Repo](https://github.com/ai36/react-component-maker), [Store](https://marketplace.visualstudio.com/items?itemName=ai36.react-component-maker), [Website](https://rcmaker.vercel.app/?utm_source=github&utm_medium=portfolio)
+
+**Stone works PDX**\
+Engineered a multi-page construction website with a structured services catalog and portfolio to improve customer discovery. Added Telegram-based inquiry flow and baseline technical SEO to strengthen inbound traffic.\
+Tech: `React`, `React Router (data router + SSR)`, `TypeScript`, `Tailwind CSS`, `Vite`, `Figma`, `Responsive design`\
+[Live demo](https://stoneworkspdx.vercel.app/?utm_source=github&utm_medium=portfolio)
 
 **HVAC Service Portal**\
 Implemented front-end solution with Core Web Vitals monitoring and dynamic admin interface. Delivered template-based CMS features for non-technical users.\
 Tech: `React`, `Vite`, `HTML5`, `CSS3`, `Figma`, `Lighthouse`, `Kommo CRM`, `Jobber`, `Responsive design`\
 [Repo](https://github.com/ai36/hvaclimate.com)
+
+**Data Restore PDX**\
+Designed and shipped a lead-focused landing page for a data recovery provider, including Telegram bot intake to automate customer requests. Connected Google Analytics and Search Console to enable performance tracking and SEO monitoring.\
+Tech: `React`, `Next.js (App router + SSR)`, `TypeScript`, `Tailwind CSS`, `Figma`, `Responsive design`\
+[Repo](https://github.com/ai36/datarestorepdx.com), [Live demo](https://datarestorepdx.vercel.app/?utm_source=github&utm_medium=portfolio)
+
+**PNW Stump Pros**\
+Delivered a high-conversion landing page with server actions that route customer inquiries directly to messenger channels. Optimized layout and responsiveness to support lead generation on mobile and desktop.\
+Tech: `React`, `Next.js (App router + SSR)`, `TypeScript`, `Tailwind CSS`, `Figma`, `Responsive design`\
+[Repo](https://github.com/ai36/pnwstumppros.com), [Live demo](https://pnwstumppros.vercel.app/?utm_source=github&utm_medium=portfolio)
+
+**Marketplace Filter**\
+Developed a Tampermonkey userscript that adds keyword filtering and status tracking to Facebook Marketplace listings. Implemented boolean search syntax (AND/OR/grouping), search history, per-listing notes, and persistent status markers to speed up manual browsing and triage of large listing volumes.\
+Tech: `JavaScript`, `Tampermonkey (GM API)`, `DOM manipulation`, `MutationObserver`\
+[Repo](https://github.com/ai36/marketplace-filter)
+
+**Oncology care website**\
+Delivered a responsive website for an oncology center with a focus on clarity, accessibility, and performance. Optimized layout and Lighthouse metrics to improve usability for patients and caregivers.\
+Tech: `PHP`, `JS`, `HTML`, `CSS`, `Figma`, `Lighthouse`, `Responsive design`\
+[Repo](https://github.com/ai36/mproc.com), [Live demo](https://mproc.com/?utm_source=github&utm_medium=portfolio)
 
 **E-Commerce rental project (B2B, B2C)**\
 Delivered an e-commerce platform for an AV rental business supporting both B2B and B2C workflows. Integrated Auth0 authentication and Google Analytics to improve user management and conversion tracking.\
@@ -75,7 +80,8 @@ Tech: `CSS`\
 [Repo](https://github.com/ai36/ai36.github.io?tab=readme-ov-file#debug-snippet)
 
 [All test tasks](https://github.com/ai36?tab=repositories&q=_test_task_) - test tasks from real interviews\
-[All internship projects](https://github.com/ai36?tab=repositories&q=_internship_) - projects completed during the internship
+[All internship projects](https://github.com/ai36?tab=repositories&q=_internship_) - projects completed during the internship\
+[All hackathon projects](https://github.com/ai36?tab=repositories&q=_hackathon_) - projects built during hackathons
 
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.shion.dev/api?username=ai36&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
